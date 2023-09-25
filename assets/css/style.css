@@ -1,37 +1,3 @@
-/*
- * Theme Name: 
- * Theme URI: 
- * Author: Milan Savov, Nikola Kostov
- * Author URI/Mail: milan.savov@gmail.com, nikolakostov1991@gmail.com
- * Version: 1.0
- * */
-
- /* TABLE OF CONTENT 
-*
-* - CUSTOM RESETS
-    - Buttons
-    - Forms
-* - LAYOUT
-* - HEADER 
-    - Site Logo
-    - Navigation
-* - HERO (BANNER)
-* - HOMEPAGE SECTIONS
-    - Features 
-    - Services
-    - Map Feature 
-    - Portfolio
-    - Newsletter 
-* - FOOTER
-* - PAGES
-    - PORTFOLIO
-    - PORTFOLIO ITEM
-    - BLOG
-    - BLOG POST
-    - CONTACT
-*
-*/
-
 
 /* CUSTOM RESETS
 ================================================== */
@@ -1183,22 +1149,22 @@ a.facebook-bg:hover{
   background-color: #3b5998;
 }
 
-a.whatsapp-bg {
-  color: #4db83e;
-  border-color: #4db83e;
+a.pinterest {
+  color: #dd4b39;
+  border-color: #dd4b39;
 } 
 
-a.whatsapp-bg:hover{
-  background-color: #265e05;
+a.pinterest:hover{
+  background-color: #dd4b39;
 } 
 
-a.instagram-bg {
-  color: #a232c4;
-  border-color: #a232c4;
+a.linkedin-bg {
+  color: #007bb5;
+  border-color: #007bb5;
 }
 
-a.instagram-bg:hover {
-  background-color: #6d088b;
+a.linkedin-bg:hover {
+  background-color: #007bb5;
 }
 
 .copyright .text-right {
